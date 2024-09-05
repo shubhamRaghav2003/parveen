@@ -908,7 +908,7 @@ p {
 /* Responsibility section */
 /* Responsibility section */
 #responsibility {
-    background: url(—Pngtree—achievements improve the winter holiday_1112863.jpg); /* Set your background image */
+   background: url('—Pngtree—achievements improve the winter holiday_1112863.jpg') no-repeat center center fixed; /* Set your background image */
     background-size: cover; /* Ensure the background image covers the entire section */
     padding: 100px 0; /* Adjust padding if necessary */
 }
